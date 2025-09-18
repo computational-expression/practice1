@@ -1,12 +1,12 @@
 """
 Simple Loops Examples
-Practice Activity 2 - CMPSC 100
+Practice Activity 1 - CMPSC 100
 
 These examples show basic for loops with range() that you can use in your game.
 Run this file to see the output: python3 simple_loops.py
 """
 
-print("🔄 Simple Loop Examples")
+print("Simple Loop Examples")
 print("=" * 30)
 
 # Example 1: Counting up
@@ -18,7 +18,7 @@ for count in range(1, 6):
 print("\n2. Countdown")
 for count in range(5, 0, -1):
     print(f"Countdown: {count}")
-print("Blast off! 🚀")
+print("Blast off!")
 
 # Example 3: Repeated action
 print("\n3. Repeated Actions")
@@ -42,4 +42,4 @@ for day in range(1, 8):
     else:
         print(f"Day {day}: Weekend - Relax!")
 
-print("\n✅ These examples show how to use for loops in your adventure game!")
+print("\n These examples show how to use for loops in your adventure game!")

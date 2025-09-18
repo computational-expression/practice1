@@ -1,6 +1,6 @@
 """
 Adventure Game with Loops - SOLUTION
-Practice Activity 2 - CMPSC 100
+Practice Activity 1 - CMPSC 100
 
 This is the complete solution version showing all the for loops implemented.
 Students can compare their work to this after completing their version.

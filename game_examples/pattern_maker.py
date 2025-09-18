@@ -1,12 +1,12 @@
 """
 Pattern Making with Loops
-Practice Activity 2 - CMPSC 100
+Practice Activity 1 - CMPSC 100
 
 These examples show how to create visual patterns using nested loops.
 Use these ideas for visual elements in your adventure game.
 """
 
-print("🎨 Pattern Making Examples")
+print("Pattern Making Examples")
 print("=" * 30)
 
 # Example 1: Simple triangle (like in the slides)
@@ -64,4 +64,4 @@ for progress in range(1, 6):
         print(" ", end="")
     print(f" {progress * 20}%")
 
-print("\n✅ Use these pattern ideas to make your game more visual!")
+print("\n Use these pattern ideas to make your game more visual!")
